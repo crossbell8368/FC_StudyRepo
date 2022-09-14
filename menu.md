@@ -6,10 +6,10 @@
 - Third
 
 ## First
-- 국밥
+- BearSoup
 
 ## Second
-- 김밥
+- RiceCake
 
 ## Third
-- 국수
+- Fried Noodle
